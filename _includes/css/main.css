@@ -23,8 +23,8 @@ a:active,
 a.active {
     outline: 0;
     color: #{{ site.color.primary }};
+    text-decoration: none;
 }
-
 h1,
 h2,
 h3,
