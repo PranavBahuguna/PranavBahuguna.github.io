@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2015-08-28
+img: hexsnake.png
+alt: image-alt
+project-date: June 2015 -
+client: None
+category: Hackathon Projects
+description: This snake game that I developed over the summer of 2015 is unique in that it uses a hexagonal rather than square grid. The current version of the game (with undeveloped features made inaccessible) is available on this <a href="https://github.com/PranavBahuguna/HexSnake">Github repository</a>.
+
+---
